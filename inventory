@@ -1,6 +1,6 @@
 # inventory
 [first_vm]
-first_vm_ip ansible_user=your_ssh_user
+127.0.0.1 ansible_user=centos
 
 [second_vm]
-second_vm_ip ansible_user=your_ssh_user
+127.0.0.1 ansible_user=centos
